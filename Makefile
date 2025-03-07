@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 19
 SUBLEVEL = 191
-EXTRAVERSION = -海上笙明玥-by笙♥玥
+EXTRAVERSION = -安笙
 NAME = "People's Front"
 
 # *DOCUMENTATION*
