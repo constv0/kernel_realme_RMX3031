@@ -67,9 +67,7 @@ fi
 cp out/arch/arm64/boot/Image.gz-dtb AnyKernel
 cd AnyKernel
 zip -r9 ORIGIN-OSS-KERNEL-RMX3031.zip *
-#curl --upload-file ORIGIN-OSS-KERNEL-RMX3031.zip https://transfer.sh/
-curl -sL https://git.io/file-transfer | sh
-./transfer anon ORIGIN-OSS-KERNEL-RMX3031.zip
+
 cd ../
 fi
 }
